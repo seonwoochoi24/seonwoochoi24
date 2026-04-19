@@ -1,13 +1,5 @@
 # Seonwoo Choi
 
-### Experience
-- [동국대학교 멋쟁이사자처럼](https://likelion-dgu.com/) 14기 프론트엔드 교육팀 2026.01 - 2026.11
-- [Amazon Cloud Clubs at Dongguk](https://acc-dgu.com/) 1기 Member 2025.07 - 2026.04
-- [동국대학교 멋쟁이사자처럼](https://likelion-dgu.com/) 13기 프론트엔드 아기사자 
-
-
----
-
 ###  Experience
  
 | Period | Organization | Role |
