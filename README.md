@@ -1,6 +1,34 @@
 # Seonwoo Choi
 
-###  Experience
+## ⚒️ Skills
+
+### Languages
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+### Computer Vision
+![YOLO](https://img.shields.io/badge/YOLO-%23111F68.svg?style=for-the-badge&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23fff.svg?style=for-the-badge&logo=opencv&logoColor=black)
+
+### Tools
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+## 👩🏻‍💻 Experience
  
 | Period | Organization | Role |
 |:---|:---|:---|
@@ -9,7 +37,7 @@
 | 2025.07 - 2026.04 |  [AWS Cloud Clubs at Dongguk](https://acc-dgu.com/) 1기| General Member |
 | 2025.03 - 2025.11 |  [동국대학교 멋쟁이사자처럼](https://likelion-dgu.com/) 13기| 프론트엔드 아기사자 |
 ---
-###  Featured Projects
+## 🧑‍🧑‍🧒‍🧒 Featured Projects
 
 <table>
   <tr>
@@ -72,7 +100,7 @@
 </table> 
 
 ---
-###  Awards
+## 🏆 Awards
 
 | Year | Competetion | Result |
 |:---:|:---|:---|
