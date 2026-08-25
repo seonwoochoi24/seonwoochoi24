@@ -4,8 +4,9 @@
  
 | Period | Organization | Role |
 |:---|:---|:---|
-| 2026.01 - 2026.11 |[동국대학교 멋쟁이사자처럼](https://likelion-dgu.com/) 14기| 프론트엔드 교육팀 |
-| 2025.07 - 2026.04 |  [Amazon Cloud Clubs at Dongguk](https://acc-dgu.com/) 1기| General Member |
+| 2026.05 - ing |  [AWS Student Builder Group at DGU](https://acc-dgu.com/) 1기| Core Member |
+| 2026.01 - ing |[동국대학교 멋쟁이사자처럼](https://likelion-dgu.com/) 14기| 프론트엔드 교육팀 |
+| 2025.07 - 2026.04 |  [AWS Cloud Clubs at Dongguk](https://acc-dgu.com/) 1기| General Member |
 | 2025.03 - 2025.11 |  [동국대학교 멋쟁이사자처럼](https://likelion-dgu.com/)  | 프론트엔드 아기사자 |
 ---
 ###  Featured Projects
